@@ -1,0 +1,3 @@
+This is a spreadsheet that is split into a few seperate sheets and some VERY badly written macros. It's purpose is to give an easy way of running through all the vocab in the "Greek to GCSE" course written by John Taylor and used in the UK.
+
+There are macros to reset each sheet, set which chapters the user wants testing on, check the words that the user has typed and switch between english to greek and greek to english.
